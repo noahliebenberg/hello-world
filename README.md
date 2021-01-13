@@ -1,4 +1,3 @@
 # hello-world
-repository test
-
-changes
+This is code for a print to screen string 
+string = "Hello World"
